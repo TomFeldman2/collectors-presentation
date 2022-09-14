@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86717d9f-2eae-4993-8a3c-c7a3f00adf32" name="Changes" comment="added collectors to list example">
-      <change afterPath="$PROJECT_DIR$/src/main/java/JoiningExample.java" afterDir="false" />
+    <list default="true" id="86717d9f-2eae-4993-8a3c-c7a3f00adf32" name="Changes" comment="added joining example">
+      <change afterPath="$PROJECT_DIR$/src/main/java/AdvancedCollectors.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JoiningExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JoiningExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +49,14 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JoiningExample">
+  <component name="RunManager" selected="Application.AdvancedCollectors">
+    <configuration name="AdvancedCollectors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdvancedCollectors" />
+      <module name="presentation.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ForEachExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ForEachExample" />
       <module name="presentation.main" />
@@ -78,6 +86,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AdvancedCollectors" />
         <item itemvalue="Application.JoiningExample" />
         <item itemvalue="Application.ForEachExample" />
         <item itemvalue="Application.Main" />
@@ -114,7 +123,14 @@
       <option name="project" value="LOCAL‎" />
       <updated>1663174573491</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL‎-00004" summary="added joining example">
+      <created>1663175423889</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL‎-00004" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1663175423889</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,6 +147,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="added collectors to list example" />
-    <option name="LAST_COMMIT_MESSAGE" value="added collectors to list example" />
+    <MESSAGE value="added joining example" />
+    <option name="LAST_COMMIT_MESSAGE" value="added joining example" />
   </component>
 </project>

@@ -7,10 +7,9 @@ public class JoiningExample {
         i.e. ["Galaxy", "is", "the", "best"] --> Galaxy, is, the, best
      */
 
-    private static final List<String> WORDS = List.of("Galaxy","is", "the", "best");
-
     public static void main(String[] args) {
-        declarativeWithCollectors(WORDS);
+        List<String> words = List.of("Galaxy", "is", "the", "best");
+        declarativeWithCollectors(words);
     }
 
     private static void imperativeWay(List<String> words) {
